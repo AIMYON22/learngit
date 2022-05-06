@@ -1,4 +1,4 @@
 Git test
 hello world
 hello git
-creating a new branch is easy
+Creating a new branch is quick AND simple.
